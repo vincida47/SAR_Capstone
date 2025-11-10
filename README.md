@@ -1,6 +1,6 @@
-# 41068 Ignition Bringup
+# Capstone Ignition Bringup
 
-Bringup for *41068 Robotics Studio I*. Launches a Husky robot in a custom simulation world with trees and grass. We use **ROS2 Humble** and **Ignition Gazebo Fortress**.
+Launches a Husky robot in a custom simulation world with trees and grass. We use **ROS2 Humble** and **Ignition Gazebo Fortress**.
 
 Worlds are build from [Gazebo Fuel](https://app.gazebosim.org/fuel/models).
 
@@ -31,7 +31,7 @@ First install some dependencies:
 Now install this package:
 * Create a new colcon workspace
   ```bash
-  mkdir -p capstone_ws/src
+  mkdir -p 41068_ws/src
   ```
 * Copy this package to the `src` directory in this workspace
 * Build package. If you get an error suggesting a missing dependency, make sure you have followed all of the above installation instructions correctly.
