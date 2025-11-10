@@ -1,4 +1,4 @@
-# Capstone Ignition Bringup
+# Capstone Bringup
 
 Launches a Husky robot in a custom simulation world with trees and grass. We use **ROS2 Humble** and **Ignition Gazebo Fortress**.
 
