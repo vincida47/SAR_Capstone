@@ -37,12 +37,12 @@ Now install this package:
 * Build package. If you get an error suggesting a missing dependency, make sure you have followed all of the above installation instructions correctly.
   ```bash
   source /opt/ros/humble/setup.bash
-  cd 41068_ws
+  cd capstone_ws
   colcon build --symlink-install
   ```
 * Source workspace (if you add this to your ~/.bashrc, then you don't need to do this each time)
   ```bash
-  source ~/41068_ws/install/setup.bash
+  source ~/capstone_ws/install/setup.bash
 
 FOR THIS REPO
 
