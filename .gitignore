@@ -1,0 +1,17 @@
+# IDE
+.vscode/
+*.db
+*.db-wal
+*.db-shm
+
+# ROS2
+build/
+install/
+log/
+.colcon/
+
+# Misc
+.DS_Store
+*.bag*
+*.zip
+*.tar*
