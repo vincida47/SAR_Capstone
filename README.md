@@ -1,5 +1,5 @@
 
-# 41068_Ignition_Bringup – Cartographer_2d_3d_Integrated
+# Capstone_Bringup – Cartographer_2d_3d_Integrated
 
 Package provides:
 - Ignition Gazebo simulation for Husky in Large Demo Environment
